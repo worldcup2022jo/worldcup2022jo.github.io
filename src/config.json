@@ -1,0 +1,226 @@
+{
+	"images": [
+		{
+			"name": "title_screen",
+			"path": "./assets/images/title_screen.jpg",
+			"width": 1920,
+			"height": 1280
+		},
+		{
+			"name": "background",
+			"path": "./assets/images/background.jpg",
+			"width": 1920,
+			"height": 1280
+		},
+		{
+			"name": "field",
+			"path": "./assets/images/field.jpg",
+			"width": 1920,
+			"height": 1280
+		},
+		{
+			"name": "player",
+			"path": "./assets/images/player.png",
+			"width": 240,
+			"height": 240
+		},
+		{
+			"name": "ned",
+			"path": "./assets/images/ned.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "usa",
+			"path": "./assets/images/usa.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "arg",
+			"path": "./assets/images/arg.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "aus",
+			"path": "./assets/images/aus.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "jpn",
+			"path": "./assets/images/jpn.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "cro",
+			"path": "./assets/images/cro.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "bra",
+			"path": "./assets/images/bra.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "kor",
+			"path": "./assets/images/kor.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "eng",
+			"path": "./assets/images/eng.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "sen",
+			"path": "./assets/images/sen.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "fra",
+			"path": "./assets/images/fra.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "pol",
+			"path": "./assets/images/pol.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "mar",
+			"path": "./assets/images/mar.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "esp",
+			"path": "./assets/images/esp.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "por",
+			"path": "./assets/images/por.png",
+			"width": 80,
+			"height": 80
+		},
+		{
+			"name": "sui",
+			"path": "./assets/images/sui.png",
+			"width": 80,
+			"height": 80
+		}
+	],
+	"fonts": [
+		{
+			"name": "Bold",
+			"path": "./assets/fonts/WorldCupBold.ttf"
+		},
+		{
+			"name": "Heavy",
+			"path": "./assets/fonts/WorldCupHeavy.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "select",
+			"path": "./assets/sounds/select.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "next",
+			"path": "./assets/sounds/next.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "start",
+			"path": "./assets/sounds/start.wav",
+			"size": 1,
+			"volume": 0.25
+		},
+		{
+			"name": "goal_post",
+			"path": "./assets/sounds/goal_post.wav",
+			"size": 1,
+			"volume": 0.25
+		},
+		{
+			"name": "goal_net",
+			"path": "./assets/sounds/goal_net.wav",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "kick",
+			"path": "./assets/sounds/kick.wav",
+			"size": 1,
+			"volume": 0.3
+		},
+		{
+			"name": "fail",
+			"path": "./assets/sounds/fail.mp3",
+			"size": 1,
+			"volume": 0.025
+		},
+		{
+			"name": "siu",
+			"path": "./assets/sounds/siu.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "theme1",
+			"path": "./assets/sounds/world_cup_chorus.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "theme2",
+			"path": "./assets/sounds/ramenez_la_coupe_a_la_maison.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "instrumental1",
+			"path": "./assets/sounds/world_cup_instrumental.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "instrumental2",
+			"path": "./assets/sounds/ramenez_la_coupe_a_la_maison_instrumental.mp3",
+			"size": 1,
+			"volume": 0.2,
+			"loop": true
+		},
+		{
+			"name": "victory",
+			"path": "./assets/sounds/we_are_the_champions.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "defeat",
+			"path": "./assets/sounds/guts_theme.mp3",
+			"size": 1,
+			"volume": 0.2,
+			"loop": true
+		}
+	]
+}
